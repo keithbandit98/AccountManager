@@ -1,0 +1,18 @@
+ 
+ EMAIL E DIPARTIMENTO NON MODIFICABILI:
+ 
+ Il campo email e il campo classe non sono modificabili direttamente:
+ 
+ - Per modificare l'email manualmente fare riferimento alla guida per la
+   modifica delle email singolarmente, altrimenti fare uso del tasto per 
+   aggiornare le email in base ai nominativi.
+   
+ - Per eseguire operazioni sul dipartimento fare ricorso allo strumento
+   per l'aggiunta di nuovi membri, se si vuole cambiare di classe un membro
+   cancellare la sua relativa riga e riaggiungerlo tramite lo strumento il
+   quale assegnerà automaticamente il membro al dipartimento designato.
+   
+   NOTA:
+   Per quanto riguarda l'email primarie quest'ultime faranno sempre ed
+   esclusivamente riferimento ai nominativi dei membri.
+ 

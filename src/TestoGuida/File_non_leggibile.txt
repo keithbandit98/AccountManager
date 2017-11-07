@@ -1,0 +1,34 @@
+ 
+				RISOLUZIONE DEI PROBLEMI
+ FILE NON LEGGIBILE:
+ 
+ Se il file non viene letto tentare queste soluzioni.
+ 
+ 1)Il file potrebbe avere un'intestazione errata:
+  
+  - Non sono presenti campi come il nome,cognome o dipartimento
+  - Lo split (carattere separatore) scelto non è corretto, proibiti +*?[]{}()|.""@
+  - Il primo campo di qualsiasi riga non deve essere mai vuoto
+  
+ 2)Il software non legge nessuna riga del file:
+ 
+   - Il software nel riquadro dei messaggi se comunica di aver saltato delle righe
+     e in tabella non è presente nessuna riga letta probabilmente tutte le righe del
+	 file sono state intestate male o corrotte.
+   - Se la casella dei messaggi non segnala nessuna riga saltata e sulla tabella non 
+     è presente nessuna riga contattare il supporto.
+ 
+ 
+  
+  Nota:
+  L'intestazione può avere più campi rispetto al numero di campi della tabella,
+  il software si occupa infatti d'individuare nell'intestazione del file solo i campi 
+  riconosciuti validi.
+  L'ordine dei campi nell'intestazione può essere casuale,ma è importante che siano 
+  presenti almeno un campo nome,cognome e dipartimento.
+  I campi possono essere vuoti è importante però che siano dichiarati:
+  Esempio se l'intestazione ha 6 campi, i seguenti campi dovranno essere compilati
+  nella seguente modalità nel caso si disponessse solo di nome,cognome e dipartimento:
+  
+   Carlo,Buzzi,,,,,5IC
+  

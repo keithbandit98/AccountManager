@@ -1,0 +1,47 @@
+ VERIFICARE LA PRESENZA DI OMONIMI
+
+ Tutorial per la verifica di eventuali omonimi
+ 
+ 1)VERIFICA TRAMITE COMPARAZIONE
+ 
+ Si consiglia l'uso della comparazione solo pe l'individuazione veloce di
+ omonimi tra due file a confronto senza importare alcuna riga, non
+ consigliato per la correzione.
+   
+  - Leggere un file base sul quale si vogliono individuare degli omonimi
+  - Cliccare sul menù a tendina in alto a destra "Compara file"
+  - Scegliere il file il quale verrà comparato con il file base, nessuna
+    riga verrà inserita ma verranno segnalati eventuali righe del file
+	base le quali potrebbero combaciare per nome e cognome con una o piu
+	righe.
+	
+	ESEMPIO:
+	+--------------------------+--------------------------------+
+	|File base -> mario,rossi  |  File comparato -> mario,verdi |
+	|             giulio,neri  |                    maria,garli |
+	|             maria,garli  |                    luigi,rossi |
+	+--------------------------+--------------------------------+
+	
+	+-----------------------------------+--------------------------------+
+	|File base -> mario,rossi           |  File comparato -> mario,verdi |
+	|             giulio,neri           |                    maria,garli |
+	|             maria,garli (omonimo) |                    luigi,rossi |
+	+-----------------------------------+--------------------------------+
+	
+	La segnalazione avverrà esclusivamente solo per gli omonimi del file
+	base, questo significa che se verranno individuati omonimi o del file
+	base o del file comparato il programma li segnalerà nel file base.
+	
+ 2)VERIFICA TRAMITE IMPORTAZIONE
+ 
+ Operazione da eseguire solo se si vuole fondere due o piu file tra loro.
+ 
+  - Leggere un file base (impossibile importare su una tabella vuota)
+  - Cliccare sul menù a tendina in alto a destra "Importa file" oppure
+    trascinare il file direttamente sopra la tabella e sceglier e "importa".
+  - A fine operazione tutte le righe sarnno disposte ordinatamente in ordine
+    alfabetico e per dipartimento, inoltre possono essere segnalati eventuali
+    omonimi. (vedi manuale "Capire la tabella flags")
+ 
+ 
+ 

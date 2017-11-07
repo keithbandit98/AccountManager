@@ -1,0 +1,24 @@
+
+ GESTIONE FILE:
+
+ - Guida al setup manuale del software:
+
+ 1) Portare il file .zip dal proprio desktop o cartella download in
+    C:\ (root directory) ed estrarne il contenuto.
+    
+    NOTA:
+    Se l'estrazione non genera una cartella ma lascia liberi i file creare una 
+    cartella in C:\ (root directory) con il nome di "GestioneFileSoftware_x.x.x" 
+    le x dovranno essere sostituite con il numero della versione.
+   
+ 3) Portare fuori il collegamento dell'eseguibile verso il desktop, o creare 
+    direttamente il collegamento.
+
+ NOTA: Il file.zip deve avere il seguente nome "Gestione_File_Version_x.x.x.zip",
+       anche la relativa cartella estratta dal file zip deve avere la stessa
+       denominazione, la mancata esecuzione delle procedure(eccetto per il
+       collegamento al desktop) pu� comportare la perdita dei servizi al server
+       per l'aggiornamento del software
+       
+ RISULTATO CORRETTO DEL PATH:
+ C:\GestioneFileSoftware_3.62.52\Gestione_File_Version_3.62.52\jar,librerie,altro...

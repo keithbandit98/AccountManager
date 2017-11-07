@@ -1,0 +1,14 @@
+ 
+ PROBLEMATICHE CON IL SERVER:
+ 
+ 1)Il server non risponde:
+  
+  - Il server potrebbe essere in manutenzione o non disponibile
+  - Se il programma si blocca o crasha per aver contattato il server, inviare un email
+	al supporto.
+  - Se il file zip contenente l'aggiornamento non arriva sul desktop contattare il supporto.
+  
+  Nota:
+  Se viene richiesto un aggiornamento e il programma sembra bloccarsi per qualche istante
+  lasciar lavorare il software per un paio di minuti, altrimenti terminare il processo.
+  

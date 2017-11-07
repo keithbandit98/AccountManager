@@ -1,0 +1,21 @@
+ 
+ ESPORTARE E COMPARARE FILE:
+ Tutorial per l'importazione di un elenco all'interno di un altro elenco
+ 
+ 1)
+ Per importare un elenco è necesario che in tabella sia già preesistente
+ un'altro elenco, spostarsi verso il menù in alto a destra e cliccare
+ importa file(anche drag and drop), ogni riga del file importato sarà 
+ ordinato alfabeticamente ed assegnato ad ogni dipartimento correttamente
+ dichiarato.
+   
+ 2)
+ Il file per essere importato deve avere un'intestazione che rispettino 
+ i requisiti minimi di lettura, vedi "Prerequisiti di lettura".
+ 
+ 4)
+ Per comparare invece un elenco con un altro valgono le stesse considerazioni
+ dell'importazione, la differenza sostanziale consiste nel segnalazione di
+ eventuali omonimi senza importare alcun file nell'elenco presistente in
+ tabella.
+ 

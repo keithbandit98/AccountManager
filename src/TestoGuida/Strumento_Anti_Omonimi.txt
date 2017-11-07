@@ -1,0 +1,13 @@
+ UTILIZZO DELLO STRUMENTO ANTI-OMONIMI
+
+ Tutorial sull'impiego dello strumento anti-omonimi
+ 
+ Il funzionamento sufficientemente intuitivo permette la
+ cancellazione e la rinominazione sia automatica, selettiva
+ e manuale degli omonimi elencati.
+ 
+ Attenzione, le operazioni svolte sulla tabella degli omonimi
+ non saranno veramente effettive finchè non si premerà il tasto 
+ "Correggi".
+ 
+ 

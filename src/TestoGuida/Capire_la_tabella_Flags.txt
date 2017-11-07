@@ -1,0 +1,26 @@
+
+ RICONOSCERE I FLAGS
+
+ Tutorial per comprendere il significato dei flags
+
+ Principalmente si possono trovare i seguenti valori:
+
+ -OLD
+ -OLD(omonimo)
+ -NEW
+ -NEW(omonimo)
+ 
+ Con OLD si intende il file base letto il quale è 
+ considerato il primo file ad essere letto in tabella
+ al quale saranno applicate tutte le modifiche e importazioni.
+ 
+ Con NEW si intendono i files che vengono importati sul file
+ base,per ogni file importato ogni riga aggiunta è considerato
+ un nuovo elemento per il file base.
+ 
+ Con OLD(omonimo) si intendono tutti gli omonimi presenti
+ all'interno del file base, in questo caso gli omonimi del file
+ base sono comparati con gli omonimi dei files importati.
+ 
+ Con NEW(omonimo) si intendono tutti gli omonimi presenti nei
+ files importati i quali sono comparati fra loro e il file base.

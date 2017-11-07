@@ -1,0 +1,10 @@
+ SALVATAGGIO CON NOME TUTORIAL
+	
+ Questa finestra si occupa del salvataggio del file finale,
+ sono disponibili le seguenti operazioni:
+	
+ 1) Salvare solo le righe con la dicitura "NEW"
+ 2) Salvare solo le righe con la dicitura "OLD"
+ 3) Salvare tutte le righe
+	
+ Spuntare obbligatoriamente una scelta per salvare.

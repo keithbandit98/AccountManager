@@ -1,0 +1,29 @@
+ PASSAGGI FONDAMENTALI
+
+   
+  1) Raccogliere i nomi in un elenco e successivamente applicare un intestata
+    
+    ESEMPIO:
+    nome,cognome,classe
+    mario,rossi,3AA
+    luigi,verdi,3AA
+    Giulia,neri,3AA
+    
+    NOTA:
+    Il programma leggerà solo le colonne relative alla tabella le altre veranno
+    scartate, obbligatorie le seguenti colonne nome,cognome,classe se la classe
+    non è presente dichiarare comunque la classe lasciando i campi vuoti
+
+  2) Leggere il file base sul quale si vogliono individuare degli omonimi o
+     importare nuove righe
+
+  3) Importare l'elenco con intestata
+  
+  4) Terminata l'importazione degli elenchi desiderati correggere evntuali omonimi
+  
+  5) Assegnare le password
+  
+  6) Salvare con nome spuntando la casella "Salva solo nuovi"
+  
+  7) Importare il file appena creato su google adminstrator
+    

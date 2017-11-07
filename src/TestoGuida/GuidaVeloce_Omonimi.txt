@@ -1,0 +1,15 @@
+ CORRETTORE OMONIMI TUTORIAL
+	
+ La tabella riporta tutti gli omonimi individuati nella
+ tabella principale, questa finestra permette di eseguire
+ le seguenti operazioni:
+	
+ 1) Cancellare una o piu righe indesiderate
+ 2) Rinominare tutti gli omonimi automaticamente
+ 3) Rinominare automaticamente soltanto gli omonimi selezionati
+ 4) Ripristinare elementi eliminati
+	
+ Si tenga conto che ogni operazione descritta nella colonna
+ stato/azione non verrà applicata finché non si preme il tasto
+ "Correggi" il quale andrà ad effettuare le modifiche sulla
+ tabella principale.

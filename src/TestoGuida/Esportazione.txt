@@ -1,0 +1,15 @@
+ 
+ ESPORTARE FILE:
+ Tutorial per l'esportazione dell'elenco
+ 
+ 1)
+ Per esportare il file è sufficiente cliccare 
+ sul menù nella barra degli strumenti e selezionare
+ Salva con nome.
+   
+ 2)
+ E' possibile esportare anche sezioni dell'elenco
+ filtrando per dipartimento.
+ Per eseguire l'azione filtrare per un dipartimento
+ e salvare con nome l'elenco filtrato.
+ 

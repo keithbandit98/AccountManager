@@ -1,0 +1,10 @@
+ 
+ AGGIUNGERE MEMBRO:
+ Tutorial per l'inserimento di un nuovo membro in elenco
+ 
+ 1)
+ Cliccare il tasto Aggiungi per abilitare lo strumento,
+ inserire obbligatoriamente nome,cognome.
+ Cliccare su Aggiungi per aggiungere il nuovo membro 
+ nell'elenco, quest'ultimo sarà disposto alfabeticamente 
+ in corrispondenza del corretto dipartimento assegnato.

@@ -1,0 +1,16 @@
+ 
+ RINOMINARE EMAIL:
+ 
+ Esiste la rinominazione automatica o manuale
+ 
+ 1)
+ Se si vuole inserire o aggiornare l'email primaria è sufficiente
+ cliccare sulla spunta "aggiorna email", l'esecuzione è automatica.
+ 
+ 2)
+ Se si vuole modificare in particolare alcune email è sufficiente
+ cambiare nome o cognome alle corrispettive colonne "nome" e "cognome"
+ la colonna contenente la email verrà aggiornata non appena si farà 
+ click sinistro con il mouse sulla tabella.
+ 
+ 

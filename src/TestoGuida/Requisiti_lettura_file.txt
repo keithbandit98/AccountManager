@@ -1,0 +1,33 @@
+				GUIDA
+
+ PREREQUISITI DI LETTURA FILE:
+ Queste note fanno riferimento alla creazione di un 
+ file creato manualmente, i file creati mediante il 
+ software non necessitano i seguenti accorgimenti.
+ 
+ 1)
+ Il file deve possedere un'intestazione iniziale in
+ cui devono essere presenti obbligatoriamente nome,
+ cognome e dipartimento.
+ Nell'intestazione possono essere inseriti altri 
+ generi ma vincolati dalla tabella, dunque non sarà
+ possbile inserire nuove o diverse colonne da quelle
+ già presenti di default nel programma.
+ 
+ 2)
+ L'intestazione non è case-sensitive inoltre può
+ avere colonne denominate in inglese.
+ 
+ 3)
+ Sono leggibili file con estensione .csv .txt .xls
+ 
+ 4)
+ Se presente l'intestazione corretta, il software
+ si occuperà di saltare tutte le righe che non 
+ contengono almeno nome,cognome e dipartimento
+ ed evntuali righe vuote o prive di significato.
+ Le righe saltate vengono segnalate.
+ 
+ 5)
+ Utilizzare un carattere separatore per separare ogni
+ campo, non sono permessi simboli come +*?[]{}()|.""@
