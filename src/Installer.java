@@ -12,7 +12,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Samuele
+ * @author Samuelex
  */
 public class Installer implements Runnable
 {
